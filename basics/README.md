@@ -1,0 +1,1 @@
+i have no ennemies, thats my first script
