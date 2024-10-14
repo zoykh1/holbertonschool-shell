@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "sudo chown betty hello" > 3-new_owner;
+chown betty hello
